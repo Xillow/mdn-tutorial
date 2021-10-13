@@ -1,0 +1,56 @@
+html {
+  font-size: 24px;
+  font-family: 'Bebas Neue', cursive;  /* Obtained from Google Font */
+
+
+}
+
+p /*selector*/{
+  color:/*property*/ blueviolet/*property value*/;
+ 
+  line-height: 1.5;
+  letter-spacing: 1px;
+  }/*declaration*/
+
+h1{
+
+  font-size: 60px;
+  text-align: center;
+  color: white;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 5px 5px 3px black;
+
+  }
+
+  h2{
+
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 5px 5px 3px black;
+  
+    }
+
+html{
+  background-color: rgb(246, 246, 152);
+
+}
+
+body{
+  width: 960px;
+  margin: 0 auto;
+  background-color: tomato;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+
+}
+
+img{
+  display:block;
+  margin: 0 auto;
+  width: 960px;
+
+}
